@@ -1,0 +1,41 @@
+﻿@model List<Canteen.Models.Staff>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>StaffId</td>
+            <td>StaffName</td>
+            <td>JobTitle</td>
+            <td>Status</td>
+            <td>Phone</td>
+            <td>CreatedBy</td>
+            <td>Action</td>
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var u in Model)
+        {
+            <tr>
+                <td>@u.StaffId</td>
+                <td>@u.StaffName</td>
+                <td>@u.JobTitle</td>
+                <td>@u.Status</td>
+                <td>@u.Phone</td>
+                <td>@u.CreatedByUserId</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@u.StaffId" class="link-primary">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@u.StaffId" class="link-danger">Delete</a>
+                </td>
+
+
+            </tr>
+        }
+    </tbody>
+
+
+</table>
+<br />
+<a asp-action="Create" asp-route-id="StaffId">Create</a>
+
