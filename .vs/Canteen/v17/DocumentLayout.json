@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdullaziz.ali\\source\\repos\\Canteen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03CD9E8B-B72F-4B67-9149-6E9AA6AF50F2}|Canteen\\Canteen.csproj|c:\\users\\abdullaziz.ali\\source\\repos\\canteen\\canteen\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03CD9E8B-B72F-4B67-9149-6E9AA6AF50F2}|Canteen\\Canteen.csproj|solutionrelative:canteen\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CD9E8B-B72F-4B67-9149-6E9AA6AF50F2}|Canteen\\Canteen.csproj|c:\\users\\abdullaziz.ali\\source\\repos\\canteen\\canteen\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03CD9E8B-B72F-4B67-9149-6E9AA6AF50F2}|Canteen\\Canteen.csproj|solutionrelative:canteen\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CD9E8B-B72F-4B67-9149-6E9AA6AF50F2}|Canteen\\Canteen.csproj|c:\\users\\abdullaziz.ali\\source\\repos\\canteen\\canteen\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CD9E8B-B72F-4B67-9149-6E9AA6AF50F2}|Canteen\\Canteen.csproj|solutionrelative:canteen\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CD9E8B-B72F-4B67-9149-6E9AA6AF50F2}|Canteen\\Canteen.csproj|c:\\users\\abdullaziz.ali\\source\\repos\\canteen\\canteen\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03CD9E8B-B72F-4B67-9149-6E9AA6AF50F2}|Canteen\\Canteen.csproj|solutionrelative:canteen\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CD9E8B-B72F-4B67-9149-6E9AA6AF50F2}|Canteen\\Canteen.csproj|c:\\users\\abdullaziz.ali\\source\\repos\\canteen\\canteen\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03CD9E8B-B72F-4B67-9149-6E9AA6AF50F2}|Canteen\\Canteen.csproj|solutionrelative:canteen\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CD9E8B-B72F-4B67-9149-6E9AA6AF50F2}|Canteen\\Canteen.csproj|c:\\users\\abdullaziz.ali\\source\\repos\\canteen\\canteen\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03CD9E8B-B72F-4B67-9149-6E9AA6AF50F2}|Canteen\\Canteen.csproj|solutionrelative:canteen\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CD9E8B-B72F-4B67-9149-6E9AA6AF50F2}|Canteen\\Canteen.csproj|c:\\users\\abdullaziz.ali\\source\\repos\\canteen\\canteen\\repo\\implementation\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CD9E8B-B72F-4B67-9149-6E9AA6AF50F2}|Canteen\\Canteen.csproj|solutionrelative:canteen\\repo\\implementation\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CD9E8B-B72F-4B67-9149-6E9AA6AF50F2}|Canteen\\Canteen.csproj|c:\\users\\abdullaziz.ali\\source\\repos\\canteen\\canteen\\repo\\interface\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CD9E8B-B72F-4B67-9149-6E9AA6AF50F2}|Canteen\\Canteen.csproj|solutionrelative:canteen\\repo\\interface\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CD9E8B-B72F-4B67-9149-6E9AA6AF50F2}|Canteen\\Canteen.csproj|c:\\users\\abdullaziz.ali\\source\\repos\\canteen\\canteen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CD9E8B-B72F-4B67-9149-6E9AA6AF50F2}|Canteen\\Canteen.csproj|solutionrelative:canteen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CD9E8B-B72F-4B67-9149-6E9AA6AF50F2}|Canteen\\Canteen.csproj|c:\\users\\abdullaziz.ali\\source\\repos\\canteen\\canteen\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CD9E8B-B72F-4B67-9149-6E9AA6AF50F2}|Canteen\\Canteen.csproj|solutionrelative:canteen\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdullaziz.ali\\source\\repos\\Canteen\\Canteen\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Canteen\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\abdullaziz.ali\\source\\repos\\Canteen\\Canteen\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Canteen\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T09:46:42.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdullaziz.ali\\source\\repos\\Canteen\\Canteen\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Canteen\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\abdullaziz.ali\\source\\repos\\Canteen\\Canteen\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "Canteen\\Views\\User\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T09:32:35.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdullaziz.ali\\source\\repos\\Canteen\\Canteen\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Canteen\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\abdullaziz.ali\\source\\repos\\Canteen\\Canteen\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "Canteen\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T09:17:13.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdullaziz.ali\\source\\repos\\Canteen\\Canteen\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "Canteen\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\abdullaziz.ali\\source\\repos\\Canteen\\Canteen\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "Canteen\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T08:51:01.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdullaziz.ali\\source\\repos\\Canteen\\Canteen\\Program.cs",
+              "RelativeDocumentMoniker": "Canteen\\Program.cs",
+              "ToolTip": "C:\\Users\\abdullaziz.ali\\source\\repos\\Canteen\\Canteen\\Program.cs",
+              "RelativeToolTip": "Canteen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T08:42:09.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\abdullaziz.ali\\source\\repos\\Canteen\\Canteen\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Canteen\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\abdullaziz.ali\\source\\repos\\Canteen\\Canteen\\Models\\User.cs",
+              "RelativeToolTip": "Canteen\\Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T08:40:08.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdullaziz.ali\\source\\repos\\Canteen\\Canteen\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Canteen\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\abdullaziz.ali\\source\\repos\\Canteen\\Canteen\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Canteen\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T08:38:36.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\abdullaziz.ali\\source\\repos\\Canteen\\Canteen\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Canteen\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\abdullaziz.ali\\source\\repos\\Canteen\\Canteen\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Canteen\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T08:34:25.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\abdullaziz.ali\\source\\repos\\Canteen\\Canteen\\Repo\\Implementation\\UserRepo.cs",
+              "RelativeDocumentMoniker": "Canteen\\Repo\\Implementation\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\abdullaziz.ali\\source\\repos\\Canteen\\Canteen\\Repo\\Implementation\\UserRepo.cs",
+              "RelativeToolTip": "Canteen\\Repo\\Implementation\\UserRepo.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T08:29:21.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\abdullaziz.ali\\source\\repos\\Canteen\\Canteen\\Repo\\Interface\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "Canteen\\Repo\\Interface\\IUserRepo.cs",
+              "ToolTip": "C:\\Users\\abdullaziz.ali\\source\\repos\\Canteen\\Canteen\\Repo\\Interface\\IUserRepo.cs",
+              "RelativeToolTip": "Canteen\\Repo\\Interface\\IUserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T08:25:12.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
